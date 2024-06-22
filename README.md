@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 
+### MyLanguages and Repositories
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungJihun1012&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungJihun1012&layout=compact)
