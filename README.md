@@ -12,7 +12,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/Nodejs-5FA04E?style-flat-square&logo=Nodejs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style-flat-square&logo=Node.js&logoColor=white" />
 
 ### MyLanguages and Repositories
 
