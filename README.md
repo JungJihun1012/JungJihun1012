@@ -12,12 +12,11 @@
 
 ---
 
-
+<img src="https://img.shields.io/badge/Node.Js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
 
 ### 🛠 Database
 
 ---
-
 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
