@@ -11,6 +11,7 @@
 ### 🛠 Backend
 
 ---
+<img src="https://img.shields.io/badge/Node.Js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
 
 
 ### 🛠 Database
