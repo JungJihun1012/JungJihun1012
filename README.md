@@ -2,7 +2,7 @@
 
 <hr>
 <img src="https://skillicons.dev/icons?i=js,ts,react,redux,mysql,spring,vite">
-<img src="https://skillicons.dev/icons?i=mongodb,express,nodejs,git,java">
+<img src="https://skillicons.dev/icons?i=mongodb,express,nodejs,git,java,npm,pnpm">
 <hr>
 
 ### tools
