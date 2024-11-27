@@ -23,4 +23,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungJihun1012&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungJihun1012&layout=compact)
-github-readme-stats.vercel.app/api/top-langs/?username=JungJihun1012&langs_count=8
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JungJihun1012&langs_count=8)
