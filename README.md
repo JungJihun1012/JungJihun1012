@@ -24,6 +24,6 @@
 <div style="display: flex; justify-content: center;">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungJihun1012&show_icons=true&theme=dracula)
-![Most Used Languages](github-readme-stats.vercel.app/api?username=JungJihun1012&show_icons=true&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api?username=JungJihun1012&show_icons=true&theme=dark)
 
 </div>
