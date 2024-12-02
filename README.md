@@ -11,6 +11,12 @@
 <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea">
 <hr>
 
+### solved
+
+<hr>
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungjihun)
+<hr>
+
 ### sns
 
 <a href="https://www.instagram.com/jihun.__.072/">
