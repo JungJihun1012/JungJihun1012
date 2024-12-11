@@ -1,7 +1,7 @@
 ### Languages
 
 <hr>
-<img src="https://skillicons.dev/icons?i=js,ts,react,redux,mysql,vite">
+<img src="https://skillicons.dev/icons?i=js,ts,react,redux,mysql,vite,github">
 <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs,git,java,npm,pnpm">
 <hr>
 
@@ -29,9 +29,9 @@
 </a>
 <hr>
 
-<div style="display: flex; justify-content: center;">
+<div style="text-align: center;">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungJihun1012&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungJihun1012&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungJihun1012&layout=compact)
 </div>
