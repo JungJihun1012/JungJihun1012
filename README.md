@@ -29,9 +29,9 @@
 </a>
 <hr>
 
-<div style="text-align: center;">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungJihun1012&show_icons=true&theme=dracula)
+<div style="display: flex; justify-content: center;">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungJihun1012&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungJihun1012&layout=compact)
+
 </div>
