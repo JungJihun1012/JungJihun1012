@@ -1,7 +1,7 @@
 ### Languages
 
 <hr>
-<img src="https://skillicons.dev/icons?i=js,ts,react,redux,vite,github">
+<img src="https://skillicons.dev/icons?i=js,ts,react,redux,vite">
 <img src="https://skillicons.dev/icons?i=express,nodejs,git,java,pnpm">
 <hr>
 
