@@ -1,8 +1,8 @@
 ### Languages
 
 <hr>
-<img src="https://skillicons.dev/icons?i=js,ts,react,redux,mysql,vite,github">
-<img src="https://skillicons.dev/icons?i=mongodb,express,nodejs,git,java,npm,pnpm">
+<img src="https://skillicons.dev/icons?i=js,ts,react,redux,vite,github">
+<img src="https://skillicons.dev/icons?i=express,nodejs,git,java,pnpm">
 <hr>
 
 ### tools
