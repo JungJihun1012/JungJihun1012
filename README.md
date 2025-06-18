@@ -13,6 +13,7 @@
 
 ### sns
 
+<hr>
 <a href="https://www.instagram.com/jihun.__.072/">
   <img src="https://skillicons.dev/icons?i=instagram">
 </a>
