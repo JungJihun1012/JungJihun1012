@@ -9,16 +9,6 @@
 <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea">
 <hr>
 
-### sns
-
-<a href="https://www.instagram.com/jihun.__.072/">
-  <img src="https://skillicons.dev/icons?i=instagram">
-</a>
-<a href="mailto:jihunjeong965@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail">
-</a>
-<hr>
-
 <div style= "dispay: flex; justify-content: center; align-items: center;">
   
 <div style="display: flex; justify-content: center;">
