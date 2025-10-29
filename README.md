@@ -2,7 +2,7 @@
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,redux,vite">
 <img src="https://skillicons.dev/icons?i=git,java,spring,postgres,mysql">
-<img src="https://skillicons.dev/icons?i=flutter,dart>
+<img src="https://skillicons.dev/icons?i=flutter,dart">
 <hr>
 
 ### tools
