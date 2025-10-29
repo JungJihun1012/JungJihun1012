@@ -6,7 +6,7 @@
 
 ### tools
 
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,idea">
+<img src="https://skillicons.dev/icons?i=vscode,idea">
 <hr>
 
 <div style= "dispay: flex; justify-content: center; align-items: center;">
